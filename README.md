@@ -33,7 +33,4 @@ Planning and organizing college events can be chaotic, with scattered informatio
 - Open a pull request for code review before merging.
 
 ## GitHub Project Board:
-We use a **Kanban board** to track project progress. Check the **Projects** tab for task assignments and updates.
-
-## License:
-MIT License
+We use a **Kanban board** to track project progress.
